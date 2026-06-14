@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 # Load Model
 
-model = joblib.load(r"models\customer_churn_model.joblib")
+model = joblib.load(r"customer_churn_model.joblib")
 
 # page config
 
