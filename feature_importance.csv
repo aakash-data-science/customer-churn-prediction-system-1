@@ -1,0 +1,46 @@
+Feature,Importance
+cat__Contract_Month-to-month,0.6614437233470202
+num__tenure,0.11189423883977745
+cat__InternetService_Fiber optic,0.09773249986680993
+cat__Contract_Two year,0.05508194044786053
+cat__PaymentMethod_Electronic check,0.03476222622933202
+cat__Contract_One year,0.028703030914432562
+num__TotalCharges,0.004891548963519826
+num__MonthlyCharges,0.003028765187707564
+cat__InternetService_DSL,0.0004321480266670272
+cat__OnlineSecurity_No,0.00029418944730778623
+cat__OnlineBackup_No internet service,0.00022062678143641782
+cat__TechSupport_No internet service,0.00015830442769836057
+cat__OnlineBackup_No,0.00015705093817841803
+cat__Partner_No,0.00015214502236621927
+cat__gender_Female,9.592833125697356e-05
+cat__gender_Male,9.579059077682158e-05
+cat__PaymentMethod_Credit card (automatic),9.492817645036893e-05
+num__SeniorCitizen,9.190540160325186e-05
+cat__OnlineBackup_Yes,8.513708078190782e-05
+cat__StreamingTV_Yes,7.295576503369245e-05
+cat__StreamingMovies_No internet service,7.180446922814137e-05
+cat__OnlineSecurity_Yes,7.056887953548136e-05
+cat__StreamingMovies_No,6.376818824638857e-05
+cat__Dependents_Yes,5.150396945878004e-05
+cat__StreamingMovies_Yes,3.8166689108762356e-05
+cat__PhoneService_Yes,3.764518752354365e-05
+cat__OnlineSecurity_No internet service,2.9319218779827593e-05
+cat__Dependents_No,2.8948900026734264e-05
+cat__TechSupport_Yes,2.7780795727187777e-05
+cat__PaperlessBilling_No,2.6348421326849778e-05
+cat__Partner_Yes,2.2944209196683514e-05
+cat__DeviceProtection_No internet service,2.195600006126986e-05
+cat__TechSupport_No,1.95150629271667e-05
+cat__PaymentMethod_Mailed check,6.462188520827698e-07
+cat__DeviceProtection_Yes,3.983731124647833e-12
+cat__MultipleLines_No,0.0
+cat__PhoneService_No,0.0
+cat__DeviceProtection_No,0.0
+cat__MultipleLines_Yes,0.0
+cat__MultipleLines_No phone service,0.0
+cat__InternetService_No,0.0
+cat__StreamingTV_No,0.0
+cat__StreamingTV_No internet service,0.0
+cat__PaperlessBilling_Yes,0.0
+cat__PaymentMethod_Bank transfer (automatic),0.0
